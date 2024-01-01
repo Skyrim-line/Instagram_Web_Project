@@ -82,3 +82,37 @@
 .content-feed-card-text {
     margin: 5px 10px;
 }
+.right-side-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid red;
+    margin-right: 10px;
+
+}
+.right-side-text{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.right-side-icon-img{
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+}
+.right-side-content{
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #dbdbdb;
+}
+.follow-button {
+    background-color: #4CAF50; /* 底部颜色 */
+    color: white;             /* 文本颜色 */
+    padding: 3px 5px;        /* 内边距 */
+    text-align: center;       /* 文本居中 */
+    text-decoration: none;    /* 移除下划线 */
+    display: inline-block;    /* 行内块显示 */
+}
