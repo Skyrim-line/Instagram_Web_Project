@@ -1,4 +1,4 @@
-# Instagram clone 项目
+# Instagram webpage project
 
 Tech Stack
 
