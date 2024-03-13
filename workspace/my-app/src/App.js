@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import MyClock from '../src/my-clock';
 
 function App() {
